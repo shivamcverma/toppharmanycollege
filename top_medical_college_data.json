@@ -1002,7 +1002,7 @@
         "name": "Anurag University",
         "nirf": "72",
         "details": {
-          "fees": ": ₹ 3.00 Lakh",
+          "fees": ": ₹ 2.04 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
@@ -1264,7 +1264,7 @@
       },
       {
         "id": "college_091",
-        "college_img": "https://images.shiksha.com/mediadata/images/1733892263phpH5lQAa_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1504515817phpUffQ6f_155x116.jpg",
         "name": "Krupanidhi College of Pharmacy, Krupanidhi Group of Institutions",
         "nirf": "91",
         "details": {
@@ -1535,7 +1535,7 @@
         "nirf": "101-125",
         "details": {
           "fees": ": ₹ 6.40 Lakh",
-          "salary": ": ₹ 2.75 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
