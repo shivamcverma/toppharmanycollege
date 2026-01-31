@@ -960,7 +960,7 @@
         "name": "Chandigarh Group of Colleges, Landran",
         "nirf": "69",
         "details": {
-          "fees": ": ₹ 6.58 Lakh",
+          "fees": ": ₹ 6.72 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
@@ -1152,12 +1152,12 @@
       },
       {
         "id": "college_083",
-        "college_img": "https://images.shiksha.com/mediadata/images/1570797454phpgnk9sU.jpeg",
-        "name": "DIT University",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570615616phporsR4D.jpg",
+        "name": "MAKAUT - Maulana Abul Kalam Azad University of Technology",
         "nirf": "83",
         "details": {
-          "fees": ": ₹ 4.40 Lakh",
-          "salary": "",
+          "fees": ": ₹ 1.60 Lakh",
+          "salary": ": ₹ 2.50 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -1166,12 +1166,12 @@
       },
       {
         "id": "college_084",
-        "college_img": "https://images.shiksha.com/mediadata/images/1570615616phporsR4D.jpg",
-        "name": "MAKAUT - Maulana Abul Kalam Azad University of Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570797454phpgnk9sU.jpeg",
+        "name": "DIT University",
         "nirf": "83",
         "details": {
-          "fees": ": ₹ 1.60 Lakh",
-          "salary": ": ₹ 2.50 Lakh",
+          "fees": ": ₹ 4.40 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -1264,7 +1264,7 @@
       },
       {
         "id": "college_091",
-        "college_img": "https://images.shiksha.com/mediadata/images/1733892263phpH5lQAa_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1504515817phpUffQ6f_155x116.jpg",
         "name": "Krupanidhi College of Pharmacy, Krupanidhi Group of Institutions",
         "nirf": "91",
         "details": {
