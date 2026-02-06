@@ -312,7 +312,7 @@
       },
       {
         "id": "college_023",
-        "college_img": "https://images.shiksha.com/mediadata/images/1491299799phpR3HMtG_155x116.png",
+        "college_img": "https://images.shiksha.com/mediadata/images/1487156223php9wTNhV_155x116.jpg",
         "name": "Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow",
         "nirf": "23",
         "details": {
@@ -792,7 +792,7 @@
         "name": "School of Pharmacy (SOP), Sharda University",
         "nirf": "57",
         "details": {
-          "fees": ": ₹ 10.04 Lakh",
+          "fees": ": ₹ 10.46 Lakh",
           "salary": ": ₹ 3.50 Lakh",
           "rankings": {
             "business_today": "",
@@ -1152,12 +1152,12 @@
       },
       {
         "id": "college_083",
-        "college_img": "https://images.shiksha.com/mediadata/images/1570615616phporsR4D.jpg",
-        "name": "MAKAUT - Maulana Abul Kalam Azad University of Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570797454phpgnk9sU.jpeg",
+        "name": "DIT University",
         "nirf": "83",
         "details": {
-          "fees": ": ₹ 1.60 Lakh",
-          "salary": ": ₹ 2.50 Lakh",
+          "fees": ": ₹ 4.40 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -1166,12 +1166,12 @@
       },
       {
         "id": "college_084",
-        "college_img": "https://images.shiksha.com/mediadata/images/1570797454phpgnk9sU.jpeg",
-        "name": "DIT University",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570615616phporsR4D.jpg",
+        "name": "MAKAUT - Maulana Abul Kalam Azad University of Technology",
         "nirf": "83",
         "details": {
-          "fees": ": ₹ 4.40 Lakh",
-          "salary": "",
+          "fees": ": ₹ 1.60 Lakh",
+          "salary": ": ₹ 2.50 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -1264,7 +1264,7 @@
       },
       {
         "id": "college_091",
-        "college_img": "https://images.shiksha.com/mediadata/images/1504515817phpUffQ6f_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1733892263phpH5lQAa_155x116.jpg",
         "name": "Krupanidhi College of Pharmacy, Krupanidhi Group of Institutions",
         "nirf": "91",
         "details": {
