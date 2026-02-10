@@ -312,7 +312,7 @@
       },
       {
         "id": "college_023",
-        "college_img": "https://images.shiksha.com/mediadata/images/1491299799phpR3HMtG_155x116.png",
+        "college_img": "https://images.shiksha.com/mediadata/images/1487156223php9wTNhV_155x116.jpg",
         "name": "Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow",
         "nirf": "23",
         "details": {
@@ -1390,11 +1390,11 @@
       },
       {
         "id": "college_100",
-        "college_img": "https://images.shiksha.com/mediadata/images/1389267951phpo48CRu.jpeg",
-        "name": "Glocal University",
+        "college_img": "https://images.shiksha.com/mediadata/images/1747642188phpE3t8ce.jpeg",
+        "name": "SGT University, Gurgaon",
         "nirf": "100",
         "details": {
-          "fees": ": ₹ 4.00 Lakh",
+          "fees": ": ₹ 8.00 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
@@ -1404,11 +1404,11 @@
       },
       {
         "id": "college_101",
-        "college_img": "https://images.shiksha.com/mediadata/images/1747642188phpE3t8ce.jpeg",
-        "name": "SGT University, Gurgaon",
+        "college_img": "https://images.shiksha.com/mediadata/images/1389267951phpo48CRu.jpeg",
+        "name": "Glocal University",
         "nirf": "100",
         "details": {
-          "fees": ": ₹ 8.00 Lakh",
+          "fees": ": ₹ 4.00 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
